@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop mobile apps",
     },
     description: "I am the fucking Lebron James of Physical Therapy. Everything I touch turns to gold.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTERIELXWC3QMfy-g_rUnG_HAplsff-mSoWU73ZBqKkrgQ2IhbPMnc0bn-57o4-fVM1frgbgj6YEfnCto4",
 };
 
 const dataabout = {
